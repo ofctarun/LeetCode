@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/ofctarun/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
