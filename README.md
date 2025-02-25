@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
