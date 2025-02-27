@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
