@@ -10,17 +10,23 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
         ListNode temp = head;
+        int c=0;
         while(temp!=null){
-            arr.add(temp.val);
+            temp = temp.next;
+            c++;
+        }
+        int idx=0;temp=head;
+        int[] arr = new int[c];
+        while(temp!=null){
+            arr[idx++]=temp.val;
             temp = temp.next;
         }
-        Collections.sort(arr);
+        Arrays.sort(arr);
         int i=0;
         temp = head;
         while(temp!=null){
-            temp.val=arr.get(i);
+            temp.val=arr[i];
             temp=temp.next;
             i++;
         }
