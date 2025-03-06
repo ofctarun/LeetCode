@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
