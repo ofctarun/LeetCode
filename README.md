@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 <!---LeetCode Topics End-->
