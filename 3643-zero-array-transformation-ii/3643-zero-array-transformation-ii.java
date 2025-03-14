@@ -19,7 +19,14 @@ class Solution {
         return true;
     }
     public int minZeroArray(int[] nums, int[][] queries) {
-        if(Arrays.stream(nums).allMatch(num->num==0))return 0;
+        boolean isZero = true;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=0){
+                isZero = false;
+                break;
+            }
+        }
+        if(isZero)return 0;
         int l=1,r=queries.length,ans=-1;
         while(l<=r){
             int mid = (l+r)/2;
