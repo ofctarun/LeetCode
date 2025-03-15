@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/ofctarun/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ofctarun/LeetCode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 ## Binary Search
 |  |
