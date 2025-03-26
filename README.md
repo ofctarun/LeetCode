@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/ofctarun/LeetCode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/ofctarun/LeetCode/tree/master/0185-department-top-three-salaries) |
 ## Math
 |  |
 | ------- |
