@@ -2,8 +2,8 @@ class Solution {
     public List<Integer> partitionLabels(String s) {
         List<Integer> res = new ArrayList<>();
         int[] last = new int[26];
-        for(int i=0;i<s.length();i++){
-            last[s.charAt(i)-'a'] = i;
+        for(int i=s.length()-1;i>=0;i--){
+            if(last[s.charAt(i)-'a'] == 0)last[s.charAt(i)-'a'] = i;
         }
         int idx = 0;
         while(idx < s.length()){
