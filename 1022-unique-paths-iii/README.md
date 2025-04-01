@@ -50,5 +50,5 @@ Note that the starting and ending square can be anywhere in the grid.
 	<li><code>1 &lt;= m, n &lt;= 20</code></li>
 	<li><code>1 &lt;= m * n &lt;= 20</code></li>
 	<li><code>-1 &lt;= grid[i][j] &lt;= 2</code></li>
-	<li>There is exactly one starting cell and one ending cell.</li>
+	<li>There is exactly one starting cell and one ending cell</li>
 </ul>
