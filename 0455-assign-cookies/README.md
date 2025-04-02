@@ -13,7 +13,7 @@ And even though you have 2 cookies, since their size is both 1, you could only m
 You need to output 1.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example 2: </strong></p>
 
 <pre>
 <strong>Input:</strong> g = [1,2], s = [1,2,3]
