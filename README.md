@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
