@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ofctarun/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ofctarun/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ofctarun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ofctarun/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ofctarun/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
