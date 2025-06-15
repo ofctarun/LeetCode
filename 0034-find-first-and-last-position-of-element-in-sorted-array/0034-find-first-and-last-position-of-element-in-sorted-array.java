@@ -19,9 +19,6 @@ class Solution {
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
-        int res[] = new int[2];
-        res[0] = binarySearch(nums,target,true);
-        res[1] = binarySearch(nums,target,false);
-        return res;
+        return new int[]{binarySearch(nums,target,true) , binarySearch(nums,target,false)};
     }
 }
