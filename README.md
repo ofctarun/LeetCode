@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ofctarun/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ofctarun/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
