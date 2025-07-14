@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ofctarun/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ofctarun/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ofctarun/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ofctarun/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
