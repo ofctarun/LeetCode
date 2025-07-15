@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ofctarun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/ofctarun/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ofctarun/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ofctarun/LeetCode/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ofctarun/LeetCode/tree/master/0217-contains-duplicate) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ofctarun/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ofctarun/LeetCode/tree/master/0344-reverse-string) |
