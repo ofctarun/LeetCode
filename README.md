@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ofctarun/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ofctarun/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -291,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ofctarun/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
