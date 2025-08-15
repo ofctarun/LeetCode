@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ofctarun/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ofctarun/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ofctarun/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/ofctarun/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/ofctarun/LeetCode/tree/master/0342-power-of-four) |
 | [1022-unique-paths-iii](https://github.com/ofctarun/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -293,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ofctarun/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ofctarun/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
