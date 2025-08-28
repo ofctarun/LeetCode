@@ -1,22 +1,17 @@
 class Solution {
     public int[][] sortMatrix(int[][] grid) {
         int n = grid.length;
-        
-        // Sort the diagonals in the bottom-left triangle (including the middle diagonal) in non-increasing order
         for (int i = 0; i < n; i++) {
             int[] diagonal = collectDiagonal(i, 0, grid, n, n);
             Arrays.sort(diagonal);
-            reverseArray(diagonal); // Sort in non-increasing order
+            reverseArray(diagonal);
             insertDiagonal(i, 0, diagonal, grid, n, n);
         }
-        
-        // Sort the diagonals in the top-right triangle in non-decreasing order
         for (int j = 1; j < n; j++) {
             int[] diagonal = collectDiagonal(0, j, grid, n, n);
-            Arrays.sort(diagonal); // Sort in non-decreasing order
+            Arrays.sort(diagonal);
             insertDiagonal(0, j, diagonal, grid, n, n);
         }
-        
         return grid;
     }
     
