@@ -12,6 +12,7 @@ class Solution {
             globalMin = Math.min(curr2 , globalMin);
         }
 
-        return (globalMax < 0 ? globalMax :  Math.max(globalMax , sum - globalMin));
+        if(globalMax < 0)return globalMax;
+        return Math.max(globalMax , sum - globalMin);
     }
 }
