@@ -1,35 +1,29 @@
 class Solution {
-    // void Traverse(int[][] grid, int i, int j, int dx, int dy){
-    //     if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == -1 || grid[i][j] == 1)return;
-    //     grid[i][j] = 2;
-    //     Traverse(grid,i+dx,j+dy,dx,dy);
-    // }
     public int countUnguarded(int m, int n, int[][] guards, int[][] walls) {
-        int grid[][] = new int[m][n];
-        int ans = 0;
-        for(int[] guard : guards){
-            grid[guard[0]][guard[1]] = 1;
-        }
-        for(int[] wall : walls){
-            grid[wall[0]][wall[1]] = -1;
-        }
-        int[] dir = {0, 1, 0, -1, 0};
-        for (int[] guard : guards){
-            int x = guard[0], y = guard[1];
-            for (int k = 0; k < 4; k++){
-                int i = x + dir[k],j = y + dir[k + 1];
-                while (i >= 0 && i < m && j >= 0 && j < n && grid[i][j] != -1 && grid[i][j] != 1) {
-                    if(grid[i][j] == 0)grid[i][j] = 2;
-                    i += dir[k];
-                    j += dir[k + 1];
+        int[][] grid = new int[m][n];
+        for (int[] w : walls) grid[w[0]][w[1]] = -1;
+        for (int[] g : guards) grid[g[0]][g[1]] = 1;
+        int[] d = {0, 1, 0, -1, 0};
+        for(int[] g : guards){
+            int x = g[0], y = g[1];
+            for(int k = 0; k < 4; k++){
+                int i = x + d[k], j = y + d[k + 1];
+                while (i >= 0 && i < m && j >= 0 && j < n) {
+                    int cell = grid[i][j];
+                    if (cell == -1 || cell == 1) break;
+                    if (cell == 0) grid[i][j] = 2;
+                    i += d[k];
+                    j += d[k + 1];
                 }
             }
         }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j] == 0)ans++;
-            }
+        int count = 0;
+        for (int i = 0; i < m; i++) {
+            int[] row = grid[i];
+            for (int j = 0; j < n; j++)
+                if (row[j] == 0) count++;
         }
-        return ans;
+
+        return count;
     }
 }
