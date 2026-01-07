@@ -16,6 +16,7 @@
 class Solution {
     private long best = 0;
     private long totalSum = 0;
+    private static final long MOD = 1000000007;
     long traverse(TreeNode root){
         if(root == null)return 0;
         return root.val + traverse(root.left) + traverse(root.right);
@@ -29,6 +30,6 @@ class Solution {
     public int maxProduct(TreeNode root) {
         totalSum = traverse(root);
         dfs(root);
-        return (int)(best % 1000000007); 
+        return (int)(best % MOD); 
     }
 }
