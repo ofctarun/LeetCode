@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ofctarun/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
