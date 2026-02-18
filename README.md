@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/ofctarun/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/ofctarun/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ofctarun/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1022-unique-paths-iii](https://github.com/ofctarun/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
