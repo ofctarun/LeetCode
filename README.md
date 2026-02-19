@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/ofctarun/LeetCode/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/ofctarun/LeetCode/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/ofctarun/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ofctarun/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ofctarun/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/ofctarun/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ofctarun/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ofctarun/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
