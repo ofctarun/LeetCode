@@ -3,14 +3,14 @@ class Solution {
         HashSet<Integer>set=new HashSet<>();
         int l=0;
         long s=0,a=0;
-        for(int i=0;i<nums.length;i++){
-            while(set.contains(nums[i])){
+        for(int r=0;r<nums.length;r++){
+            while(set.contains(nums[r])){
                 set.remove(nums[l]);
                 s=s-nums[l];
                 l++;
             }
-            set.add(nums[i]);
-            s+=nums[i];
+            set.add(nums[r]);
+            s+=nums[r];
             if(set.size()>=k){
                 a=Math.max(a,s);
                 set.remove(nums[l]);
@@ -19,6 +19,5 @@ class Solution {
             }
         }
         return a;
-        
     }
 }
