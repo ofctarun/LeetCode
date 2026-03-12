@@ -1,24 +1,22 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        HashMap<Integer,Integer> hm = new HashMap<>();
-        int dup = 0, i = 0, j = 0;
-        long max = 0, ans = 0;
+        Set<Integer> set = new HashSet<>();
+        long sum = 0, ans = 0;
+        int i = 0;
+        int j = 0;
         while(j < nums.length){
-            hm.put(nums[j], hm.getOrDefault(nums[j],0) + 1);
-            if(hm.get(nums[j]) == 2)dup++;
-            if(j - i + 1 < k){
-                max += nums[j];
-                j++;
+            while(set.contains(nums[j])){
+                set.remove(nums[i]);
+                sum -= nums[i];
+                i++;
             }
+            set.add(nums[j]);
+            sum += nums[j];
+            if(j - i + 1 < k)j++;
             else{
-                max += nums[j];
-                if(dup == 0)ans = ans > max ? ans : max;
-                max -= nums[i];
-                if(hm.get(nums[i]) == 1)hm.remove(nums[i]);
-                else{
-                    hm.put(nums[i], hm.get(nums[i]) - 1);
-                    if(hm.get(nums[i]) == 1) dup--;
-                }
+                if(j - i + 1 == k)ans = Math.max(sum, ans);
+                set.remove(nums[i]);
+                sum -= nums[i];
                 i++;
                 j++;
             }
