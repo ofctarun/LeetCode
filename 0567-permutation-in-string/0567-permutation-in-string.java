@@ -1,29 +1,17 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int freq[] = new int[26];
-        int unq = 0;
-        for(char ch : s1.toCharArray()){
-            if(freq[ch - 'a'] == 0)unq++;
-            freq[ch - 'a']--;
+        if(s1.length()>s2.length()) return false;
+        int[] freq = new int[26];
+        int[] freq1 = new int[26];
+        for(char c : s1.toCharArray()) freq[c-'a']++;
+        for(int i=0;i<s1.length();i++){
+            freq1[s2.charAt(i)-'a']++;
         }
-        int i = 0,j = 0;
-        while(j < s2.length()){
-            int cur1 = s2.charAt(j) - 'a';
-            if(freq[cur1] == 0)unq++;
-            freq[cur1]++;
-            if(freq[cur1] == 0)unq--;
-            System.out.println(unq);
-            if(j - i + 1 < s1.length())j++;
-            else{
-                if(unq == 0)return true;
-                int cur2 = s2.charAt(i) - 'a';
-                if(freq[cur2] == 0)unq++;
-                freq[cur2]--;
-                if(freq[cur2] == 0)unq--;
-                System.out.println(unq);
-                i++;
-                j++;
-            }
+        if(Arrays.equals(freq,freq1)) return true;
+        for(int i=s1.length();i<s2.length();i++){
+            freq1[s2.charAt(i-s1.length())-'a']--;
+            freq1[s2.charAt(i)-'a']++;
+            if(Arrays.equals(freq,freq1)) return true;
         }
         return false;
     }
