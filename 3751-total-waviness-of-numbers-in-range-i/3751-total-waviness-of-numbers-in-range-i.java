@@ -1,21 +1,22 @@
 class Solution {
-    int waviness(int i){
-        int num = i / 100;
-        int next = i % 10 , c = 0;
-        i /= 10;
-        while(i > 0 && num > 0){
-            int curr = i % 10;
-            int prev = num % 10;
-            if( curr > prev && curr > next)c++;
-            if( curr < prev && curr < next)c++;
+    int waviness(int n){
+        int c = 0;
+        int next = n % 10;
+        n /= 10;
+        int curr = n % 10;
+        n /= 10;
+        while(n > 0){
+            int prev = n % 10;
+            if((curr > prev && curr > next) ||(curr < prev && curr < next))c++;
             next = curr;
-            num /= 10; i /= 10;
+            curr = prev;
+            n /= 10;
         }
         return c;
     }
     public int totalWaviness(int num1, int num2) {
         int ans = 0;
-        for(int i = num1 ; i <= num2 ; i++)if(i > 100)ans += waviness(i);
+        for(int i = Math.max(101,num1) ; i <= num2 ; i++)ans += waviness(i);
         return ans;
     }
 }
