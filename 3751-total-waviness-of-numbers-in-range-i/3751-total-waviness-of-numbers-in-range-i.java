@@ -1,11 +1,15 @@
 class Solution {
     int waviness(int i){
-        String str = Integer.toString(i);
-        char arr[] = str.toCharArray();
-        int c = 0;
-        for(int j = 1; j < arr.length - 1; j++){
-            if((Integer.valueOf(arr[j]) > Integer.valueOf(arr[j -1])) && (Integer.valueOf(arr[j]) > Integer.valueOf(arr[j + 1])))c++;
-            if((Integer.valueOf(arr[j]) < Integer.valueOf(arr[j -1])) && (Integer.valueOf(arr[j]) < Integer.valueOf(arr[j + 1])))c++;
+        int num = i / 100;
+        int next = i % 10 , c = 0;
+        i /= 10;
+        while(i > 0 && num > 0){
+            int curr = i % 10;
+            int prev = num % 10;
+            if( curr > prev && curr > next)c++;
+            if( curr < prev && curr < next)c++;
+            next = curr;
+            num /= 10; i /= 10;
         }
         return c;
     }
