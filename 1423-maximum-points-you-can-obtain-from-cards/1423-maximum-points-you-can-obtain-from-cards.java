@@ -5,7 +5,6 @@ class Solution {
         int ans = max;
         for(int i = k - 1,j = n; i >= 0;j--,i--){
             max += cardPoints[j] - cardPoints[i];
-            System.out.println("n - i : " +  cardPoints[n - i] +" i : " + cardPoints[i]);
             ans = (ans > max) ? ans : max;
         }
         return ans;
