@@ -15,7 +15,7 @@ class Solution {
                 }
                 i++;
             }
-            if (j - i + 1 == unq) ans = Math.max(ans, unq);
+            if (j - i + 1 == unq)ans = Math.max(ans, unq);
             j++;
         }
         return ans;
