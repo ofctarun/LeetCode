@@ -1,6 +1,4 @@
-/* Write your PL/SQL query statement below */
-SELECT DEPT.name AS Department, EMP.name AS Employee, EMP.salary 
-AS Salary FROM Department DEPT JOIN Employee EMP ON 
-EMP.DepartmentId=DEPT.id WHERE 3 > (SELECT COUNT(DISTINCT EMP1.salary)
-FROM Employee EMP1 WHERE EMP1.salary > EMP.salary AND 
-EMP.departmentId = EMP1.departmentId)
+select e.name as department,d.name as employee , salary from 
+(select name,departmentId,salary,dense_rank() over (partition by departmentId order by salary desc) as rk from employee) e
+left join department d on e.departmentId = d.id
+where rk <= 3
