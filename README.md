@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ofctarun/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/ofctarun/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ofctarun/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ofctarun/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ofctarun/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
