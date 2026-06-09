@@ -1,22 +1,6 @@
-
-WITH cte AS
-(
-SELECT 
-    d.name AS Department,
-    e.name AS Employee,
-    e.salary AS Salary,
-    DENSE_RANK() OVER(PARTITION BY d.id ORDER BY e.salary DESC) AS rank
-FROM 
-    Employee e
-JOIN
-    Department d on e.departmentId = d.id 
-)
-
-SELECT
-    Department,
-    Employee,
-    Salary
-FROM 
-    cte 
-WHERE
-    rank <4;
+/* Write your PL/SQL query statement below */
+SELECT DEPT.name AS Department, EMP.name AS Employee, EMP.salary 
+AS Salary FROM Department DEPT JOIN Employee EMP ON 
+EMP.DepartmentId=DEPT.id WHERE 3 > (SELECT COUNT(DISTINCT EMP1.salary)
+FROM Employee EMP1 WHERE EMP1.salary > EMP.salary AND 
+EMP.departmentId = EMP1.departmentId)
