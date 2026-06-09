@@ -1,7 +1,19 @@
-# Write your MySQL query statement below
-with cte1 as (select name, salary, dense_rank()over(partition by departmentId order by salary desc)as ranking, departmentId 
-from employee)
-select b. name as department, a.name as employee, a.salary
-from cte1 a inner join department b
-on a.departmentId = b.id
-where a.ranking <= 3;
+WITH cte AS (
+    SELECT
+        name,
+        salary,
+        departmentId,
+        DENSE_RANK() OVER (
+            PARTITION BY departmentId
+            ORDER BY salary DESC
+        ) AS rk
+    FROM Employee
+)
+SELECT
+    d.name AS Department,
+    c.name AS Employee,
+    c.salary AS Salary
+FROM cte c
+JOIN Department d
+    ON c.departmentId = d.id
+WHERE c.rk <= 3;
