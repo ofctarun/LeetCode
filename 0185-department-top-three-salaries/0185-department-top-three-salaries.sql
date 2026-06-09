@@ -1,19 +1,16 @@
-WITH cte AS (
+WITH x AS (
     SELECT
-        name,
-        salary,
-        departmentId,
-        DENSE_RANK() OVER (
-            PARTITION BY departmentId
-            ORDER BY salary DESC
-        ) AS rk
-    FROM Employee
+        d.name Department,
+        e.name Employee,
+        e.salary Salary,
+        DENSE_RANK() OVER(
+            PARTITION BY d.name
+            ORDER BY e.salary DESC
+        ) r
+    FROM Employee e
+    JOIN Department d
+        ON e.departmentId = d.id
 )
-SELECT
-    d.name AS Department,
-    c.name AS Employee,
-    c.salary AS Salary
-FROM cte c
-JOIN Department d
-    ON c.departmentId = d.id
-WHERE c.rk <= 3;
+SELECT Department, Employee, Salary
+FROM x
+WHERE r <= 3;
