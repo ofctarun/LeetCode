@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ofctarun/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ofctarun/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ofctarun/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ofctarun/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ofctarun/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ofctarun/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ofctarun/LeetCode/tree/master/0567-permutation-in-string) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ofctarun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ofctarun/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ofctarun/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ofctarun/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ofctarun/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ofctarun/LeetCode/tree/master/0724-find-pivot-index) |
