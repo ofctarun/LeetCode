@@ -6,14 +6,14 @@ class Solution {
             int[] freq = new int[26];
             for(int j = 0; j < s.length(); j++){
                 int curr = s.charAt(j) - 'a';
+                if(freq[curr] == 0)unq++;
                 freq[curr]++;
-                if(freq[curr] == 1)unq++;
                 if(freq[curr] == k)atleast++;
                 while(unq > req){
                     int curr2 = s.charAt(i) - 'a';
+                    if(freq[curr2] == k)atleast--;
                     freq[curr2]--;
                     if(freq[curr2] == 0)unq--;
-                    if(freq[curr2] == k-1)atleast--;
                     i++;
                 }
                 if(atleast == req)ans = Math.max(ans,j-i+1);
