@@ -1,22 +1,24 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
-        int n = arr.length,mod = 1000000007;
+        int n = arr.length,mod = 1000000007,top=-1;
+        int[] stack = new int[n + 1];
         int[] l = new int[n];
         int[] r = new int[n];
-        Stack<Integer> st = new Stack<>();
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && arr[st.peek()] > arr[i])st.pop();
-            l[i] = st.isEmpty() ? -1 : st.peek();
-            st.push(i);
+        for(int i = 0; i < n; i++){
+            while(top >= 0 && arr[stack[top]] > arr[i])top--;
+            l[i] = (top == -1) ? -1 : stack[top];
+            stack[++top] = i;
         }
-        st.clear();
+        top = -1;
+        for(int i = n - 1; i >= 0; i--){
+            while(top >= 0 && arr[stack[top]] >= arr[i])top--;
+            r[i] = (top == -1) ? n : stack[top];
+            stack[++top] = i;
+        }
         long ans = 0;
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && arr[st.peek()] >= arr[i])st.pop();
-            r[i] = st.isEmpty() ? n : st.peek();
-            ans += (long)(i - l[i]) * (r[i] - i) * arr[i];
-            ans %= mod;
-            st.push(i);
+        for(int i = 0; i < n; i++){
+            long count = (long)(i - l[i]) * (r[i] - i);
+            ans = (ans + (count % mod) * arr[i]) % mod;
         }
         return (int)ans;
     }
