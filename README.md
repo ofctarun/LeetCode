@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ofctarun/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/ofctarun/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ofctarun/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ofctarun/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ofctarun/LeetCode/tree/master/0567-permutation-in-string) |
