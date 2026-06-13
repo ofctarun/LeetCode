@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ofctarun/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ofctarun/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ofctarun/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/ofctarun/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ofctarun/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ofctarun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ofctarun/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ofctarun/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/ofctarun/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ofctarun/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/ofctarun/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ofctarun/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -502,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
