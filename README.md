@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ofctarun/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ofctarun/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ofctarun/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ofctarun/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ofctarun/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
