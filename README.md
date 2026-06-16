@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/ofctarun/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/ofctarun/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ofctarun/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ofctarun/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ofctarun/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/ofctarun/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ofctarun/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ofctarun/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ofctarun/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
