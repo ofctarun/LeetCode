@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/ofctarun/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ofctarun/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ofctarun/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/ofctarun/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ofctarun/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ofctarun/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ofctarun/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ofctarun/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ofctarun/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
