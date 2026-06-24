@@ -1,15 +1,19 @@
 class Solution {
     public int[][] rangeAddQueries(int n, int[][] queries) {
-        int[][] freq = new int[n][n];
-        for(int[] query : queries){
-            for(int k = query[0]; k <= query[2]; k++){
-                freq[k][query[1]] += 1;
-                if(query[3] + 1 < n)freq[k][query[3]+1] -= 1;
+        int[][] arr = new int[n][n];
+        for(int[] q : queries){
+            int r1 = q[0];
+            int c1= q[1];
+            int r2 = q[2];
+            int c2 = q[3];
+            for(int i=r1;i<=r2;i++){
+                arr[i][c1] +=1;
+                if(c2+1<n)arr[i][c2+1] -= 1;
             }
         }
-        for(int k=0;k<n;k++){
-            for(int l=1;l<n;l++)freq[k][l] += freq[k][l-1];
+        for(int i=0;i<n;i++){
+            for(int j=1;j<n;j++)arr[i][j]= arr[i][j] + arr[i][j-1];
         }
-        return freq;
+        return arr;
     }
 }
