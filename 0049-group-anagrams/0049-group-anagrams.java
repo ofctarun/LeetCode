@@ -8,8 +8,6 @@ class Solution {
             hm.putIfAbsent(sorted, new ArrayList<>());
             hm.get(sorted).add(str);
         }
-        List<List<String>> ans = new ArrayList<>();
-        for(var key : hm.keySet())ans.add(hm.get(key));
-        return ans;
+        return new ArrayList<>(hm.values());
     }
 }
