@@ -6,8 +6,7 @@ class Solution {
             int c = 0;
             for(int j = i; j < n; j++){
                 if(nums[j] == target)c++;
-                int len = j - i + 1;
-                if(c > len / 2)ans++;
+                if(c > (j-i+1)/ 2)ans++;
             }
         }
         return ans;
