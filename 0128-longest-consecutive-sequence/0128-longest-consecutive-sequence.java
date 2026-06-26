@@ -7,7 +7,7 @@ class Solution {
             if(!hs.contains(num - 1)){
                 int i = 1;
                 while(hs.contains(num + i))i++;
-                ans = Math.max(i,ans);
+                ans = ans > i ? ans : i;
             }
         }
         return ans;
