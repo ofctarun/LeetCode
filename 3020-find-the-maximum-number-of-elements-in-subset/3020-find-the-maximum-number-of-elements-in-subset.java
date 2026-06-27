@@ -8,6 +8,8 @@ class Solution {
         }
         if(ans-- > 0)ans = (ans % 2 == 0) ? ans - 1 : ans;
         for(int num : hm.keySet()){
+            int prev = (int)Math.sqrt(num);
+            if((long)prev * prev == num && hm.containsKey(prev) && hm.get(prev) >= 2)continue;
             int len = 0;
             while(hm.containsKey(num)){
                 if(hm.get(num) == 1 || !hm.containsKey(num * num)){
