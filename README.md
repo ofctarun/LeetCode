@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/ofctarun/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ofctarun/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/ofctarun/LeetCode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ofctarun/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ofctarun/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ofctarun/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ofctarun/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ofctarun/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ofctarun/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ofctarun/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ofctarun/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
