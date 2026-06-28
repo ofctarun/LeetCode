@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/ofctarun/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ofctarun/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/ofctarun/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ofctarun/LeetCode/tree/master/0724-find-pivot-index) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ofctarun/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ofctarun/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/ofctarun/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ofctarun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ofctarun/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
