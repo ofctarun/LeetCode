@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/ofctarun/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/ofctarun/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0904-fruit-into-baskets](https://github.com/ofctarun/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ofctarun/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ofctarun/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/ofctarun/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/ofctarun/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/ofctarun/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ofctarun/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/ofctarun/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ofctarun/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/ofctarun/LeetCode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/ofctarun/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ofctarun/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ofctarun/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/ofctarun/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ofctarun/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ofctarun/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -600,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Brainteaser
 |  |
 | ------- |
