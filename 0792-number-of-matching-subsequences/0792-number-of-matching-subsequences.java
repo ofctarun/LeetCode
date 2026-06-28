@@ -1,18 +1,18 @@
 class Solution {
     public int numMatchingSubseq(String s, String[] words) {
-        HashMap<String, Integer> hm = new HashMap<>();
-        for(String word : words)hm.put(word, hm.getOrDefault(word, 0) + 1);
-        int ans = 0;
-        char ch[] = s.toCharArray();
-        for(String word : words){
-            char curr[] = word.toCharArray();
-            int i = 0, j = 0;
-            while(i < curr.length && j < ch.length){
-                if(word.charAt(i) == s.charAt(j))i++;
-                j++;
+        Map<String,Integer> hm=new HashMap<>();
+        for(int i=0;i<words.length;i++)hm.put(words[i],hm.getOrDefault(words[i],0)+1);
+        char ch[]=s.toCharArray();
+        int res=0;
+        for(String curr:hm.keySet()){
+            int i=0,j=0;
+            char ch1[]=curr.toCharArray();
+            while(i<ch.length&&j<ch1.length){
+                if(ch[i]==ch1[j])j++;
+                i++;
             }
-            if(i == curr.length)ans++;
+            if(j==ch1.length)res+=hm.get(curr);
         }
-        return ans;
+        return res;
     }
 }
