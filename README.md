@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ofctarun/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/ofctarun/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ofctarun/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1813-maximum-erasure-value](https://github.com/ofctarun/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ofctarun/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ofctarun/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ofctarun/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/ofctarun/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/ofctarun/LeetCode/tree/master/0768-partition-labels) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ofctarun/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ofctarun/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ofctarun/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ofctarun/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
