@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1022-unique-paths-iii](https://github.com/ofctarun/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/ofctarun/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/ofctarun/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ofctarun/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/ofctarun/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
