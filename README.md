@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/ofctarun/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/ofctarun/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ofctarun/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/ofctarun/LeetCode/tree/master/1390-four-divisors) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/ofctarun/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ofctarun/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ofctarun/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/ofctarun/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ofctarun/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ofctarun/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
