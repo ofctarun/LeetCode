@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ofctarun/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ofctarun/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ofctarun/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
