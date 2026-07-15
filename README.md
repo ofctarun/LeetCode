@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ofctarun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ofctarun/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ofctarun/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ofctarun/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ofctarun/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ofctarun/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -740,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ofctarun/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
