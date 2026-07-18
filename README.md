@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ofctarun/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ofctarun/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ofctarun/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ofctarun/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ofctarun/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ofctarun/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ofctarun/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ofctarun/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ofctarun/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ofctarun/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -748,5 +750,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ofctarun/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ofctarun/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
