@@ -9,6 +9,6 @@ class Solution {
                 i = j;
             }
         }
-        return (int)(ans % (1e9+7));       
+        return (int)(ans % (1000000007));       
     }
 }
