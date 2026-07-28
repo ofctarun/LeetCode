@@ -5,7 +5,7 @@ class Solution {
         for(int j = 0; j < s.length(); j++){
             if(s.charAt(i) == s.charAt(j))ans += j - i + 1;
             else{
-                ans += 1;
+                ans++;
                 i = j;
             }
         }
