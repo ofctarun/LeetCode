@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ofctarun/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ofctarun/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ofctarun/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/ofctarun/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/ofctarun/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ofctarun/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ofctarun/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ofctarun/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ofctarun/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ofctarun/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ofctarun/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
