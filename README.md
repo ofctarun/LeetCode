@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ofctarun/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ofctarun/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ofctarun/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ofctarun/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3227-find-missing-and-repeated-values](https://github.com/ofctarun/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ofctarun/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ofctarun/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ofctarun/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ofctarun/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ofctarun/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ofctarun/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/ofctarun/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ofctarun/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ofctarun/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ofctarun/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ofctarun/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ofctarun/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ofctarun/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/ofctarun/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ofctarun/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ofctarun/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ofctarun/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ofctarun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
