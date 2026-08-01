@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ofctarun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ofctarun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ofctarun/LeetCode/tree/master/0015-3sum) |
@@ -136,8 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3838-weighted-word-mapping](https://github.com/ofctarun/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ofctarun/LeetCode/tree/master/0049-group-anagrams) |
@@ -201,8 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ofctarun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3941-password-strength](https://github.com/ofctarun/LeetCode/tree/master/3941-password-strength) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ofctarun/LeetCode/tree/master/0049-group-anagrams) |
@@ -248,8 +248,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ofctarun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3941-password-strength](https://github.com/ofctarun/LeetCode/tree/master/3941-password-strength) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0039-combination-sum](https://github.com/ofctarun/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ofctarun/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/ofctarun/LeetCode/tree/main/0077-combinations/) | Medium |
@@ -257,13 +257,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-unique-paths-iii](https://github.com/ofctarun/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2107-find-unique-binary-string](https://github.com/ofctarun/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0184-department-highest-salary](https://github.com/ofctarun/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ofctarun/LeetCode/tree/master/0185-department-top-three-salaries) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0013-roman-to-integer](https://github.com/ofctarun/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ofctarun/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
@@ -294,8 +294,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ofctarun/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ofctarun/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0498-diagonal-traverse](https://github.com/ofctarun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ofctarun/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/ofctarun/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -310,12 +310,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/ofctarun/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ofctarun/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ofctarun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ofctarun/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -340,8 +340,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -358,8 +358,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ofctarun/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ofctarun/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ofctarun/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ofctarun/LeetCode/tree/master/0018-4sum) |
@@ -402,8 +402,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3748-sort-matrix-by-diagonals](https://github.com/ofctarun/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/ofctarun/LeetCode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/ofctarun/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ofctarun/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ofctarun/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -418,8 +418,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ofctarun/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ofctarun/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ofctarun/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ofctarun/LeetCode/tree/master/0016-3sum-closest) |
@@ -461,8 +461,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ofctarun/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ofctarun/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ofctarun/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ofctarun/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -476,8 +476,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ofctarun/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ofctarun/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ofctarun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ofctarun/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
@@ -488,17 +488,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/ofctarun/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0073-set-matrix-zeroes](https://github.com/ofctarun/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ofctarun/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/ofctarun/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -513,8 +513,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/ofctarun/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ofctarun/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ofctarun/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ofctarun/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -546,8 +546,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/ofctarun/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ofctarun/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0190-reverse-bits](https://github.com/ofctarun/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ofctarun/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
@@ -563,8 +563,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ofctarun/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ofctarun/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ofctarun/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -589,8 +589,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ofctarun/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ofctarun/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0229-majority-element-ii](https://github.com/ofctarun/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ofctarun/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ofctarun/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -606,8 +606,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ofctarun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ofctarun/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ofctarun/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -634,8 +634,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/ofctarun/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ofctarun/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -643,8 +643,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ofctarun/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ofctarun/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -653,126 +653,126 @@ A collection of LeetCode questions to ace the coding interview!
 | [2685-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ofctarun/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ofctarun/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ofctarun/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ofctarun/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0386-lexicographical-numbers](https://github.com/ofctarun/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0231-power-of-two](https://github.com/ofctarun/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ofctarun/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ofctarun/LeetCode/tree/master/0342-power-of-four) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/ofctarun/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ofctarun/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ofctarun/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ofctarun/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ofctarun/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ofctarun/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ofctarun/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ofctarun/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ofctarun/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/ofctarun/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/ofctarun/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ofctarun/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/ofctarun/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ofctarun/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ofctarun/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/ofctarun/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ofctarun/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/ofctarun/LeetCode/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ofctarun/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ofctarun/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0303-range-sum-query-immutable](https://github.com/ofctarun/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ofctarun/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ofctarun/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/ofctarun/LeetCode/tree/master/0706-design-hashmap) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ofctarun/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ofctarun/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ofctarun/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ofctarun/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
