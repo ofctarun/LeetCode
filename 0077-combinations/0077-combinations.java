@@ -1,4 +1,5 @@
 class Solution {
+    private List<List<Integer>> result = new ArrayList<>();
     void backtrack(int n, int k, int st, List<Integer> lst, List<List<Integer>> res){
         if(lst.size() == k){
             res.add(new ArrayList<>(lst));
@@ -11,7 +12,6 @@ class Solution {
         }
     }
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>> result = new ArrayList<>();
         backtrack(n, k, 1, new ArrayList<>(), result);
         return result;
     }
