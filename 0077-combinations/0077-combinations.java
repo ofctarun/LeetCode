@@ -1,6 +1,9 @@
 class Solution {
     void backtrack(int n, int k, int st, List<Integer> lst, List<List<Integer>> res){
-        if(lst.size() == k)res.add(new ArrayList<>(lst));
+        if(lst.size() == k){
+            res.add(new ArrayList<>(lst));
+            return;
+        }
         for(int i = st; i <= n; i++){
             lst.add(i);
             backtrack(n, k, i+1, lst, res);
