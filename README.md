@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/ofctarun/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ofctarun/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/ofctarun/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ofctarun/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ofctarun/LeetCode/tree/master/0525-contiguous-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/ofctarun/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ofctarun/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ofctarun/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ofctarun/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ofctarun/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ofctarun/LeetCode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ofctarun/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ofctarun/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ofctarun/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ofctarun/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ofctarun/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ofctarun/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ofctarun/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ofctarun/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Rolling Hash
 |  |
