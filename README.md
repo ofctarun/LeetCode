@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3639-zero-array-transformation-i](https://github.com/ofctarun/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ofctarun/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ofctarun/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ofctarun/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ofctarun/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ofctarun/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ofctarun/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ofctarun/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ofctarun/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ofctarun/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ofctarun/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ofctarun/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ofctarun/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
