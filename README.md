@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ofctarun/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/ofctarun/LeetCode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ofctarun/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ofctarun/LeetCode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/ofctarun/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1945-finding-the-users-active-minutes](https://github.com/ofctarun/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ofctarun/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
