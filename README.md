@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1022-unique-paths-iii](https://github.com/ofctarun/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/ofctarun/LeetCode/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/ofctarun/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/ofctarun/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/ofctarun/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ofctarun/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-number-of-matching-subsequences](https://github.com/ofctarun/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ofctarun/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ofctarun/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/ofctarun/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ofctarun/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ofctarun/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ofctarun/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -819,4 +821,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ofctarun/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/ofctarun/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/ofctarun/LeetCode/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
