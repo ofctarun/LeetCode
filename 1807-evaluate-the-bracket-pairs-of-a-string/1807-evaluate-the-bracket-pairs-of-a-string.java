@@ -5,9 +5,9 @@ class Solution {
             hm.put(ls.get(0),ls.get(1));
         }
         int i = 0;
-        StringBuilder sb = new StringBuilder();
+        String sb = "";
         while(i < s.length()){
-            if(s.charAt(i) != '(' && s.charAt(i) != ')')sb.append(s.charAt(i));
+            if(s.charAt(i) != '(' && s.charAt(i) != ')')sb+=(s.charAt(i));
             else{
                 i++;
                 String str = "";
@@ -15,11 +15,11 @@ class Solution {
                     str += s.charAt(i);
                     i++;
                 }
-                if(!hm.containsKey(str))sb.append('?');
-                else sb.append(hm.get(str));
+                if(!hm.containsKey(str))sb+=('?');
+                else sb+=(hm.get(str));
             }
             i++;
         }
-        return new String(sb);
+        return sb;
     }
 }
