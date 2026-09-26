@@ -5,21 +5,22 @@ class Solution {
             hm.put(ls.get(0),ls.get(1));
         }
         int i = 0;
-        String sb = "";
+        StringBuilder sb = new StringBuilder();
         while(i < s.length()){
-            if(s.charAt(i) != '(' && s.charAt(i) != ')')sb+=(s.charAt(i));
+            if(s.charAt(i) != '(' && s.charAt(i) != ')')sb.append(s.charAt(i));
             else{
                 i++;
-                String str = "";
+                StringBuilder str = new StringBuilder();
                 while(s.charAt(i) != ')'){
-                    str += s.charAt(i);
+                    str.append(s.charAt(i));
                     i++;
                 }
-                if(!hm.containsKey(str))sb+=('?');
-                else sb+=(hm.get(str));
+                String strr = new String(str);
+                if(!hm.containsKey(strr))sb.append('?');
+                else sb.append(hm.get(strr));
             }
             i++;
         }
-        return sb;
+        return new String(sb);
     }
 }
