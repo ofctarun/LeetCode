@@ -1,15 +1,17 @@
 class Solution {
     public String reverseParentheses(String s) {
         StringBuilder sb = new StringBuilder();
-        ArrayList<Integer> open = new ArrayList<>();
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='(') open.add(sb.length());
-            else if(s.charAt(i) == ')'){
-                int start = open.remove(open.size()-1);
-                String rev = new StringBuilder(sb.substring(start)).reverse().toString();
-                sb.replace(start,sb.length(),rev);
+        Stack<StringBuilder> st = new Stack<>();
+        for(char ch : s.toCharArray()){
+            if(ch == '('){
+                st.push(sb);
+                sb = new StringBuilder();
             }
-            else sb.append(s.charAt(i));
+            else if(ch == ')'){
+                sb.reverse();
+                sb = st.pop().append(sb);
+            }
+            else sb.append(ch);
         }
         return new String(sb);
     }
