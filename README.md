@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ofctarun/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/ofctarun/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ofctarun/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ofctarun/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ofctarun/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/ofctarun/LeetCode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/ofctarun/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/ofctarun/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ofctarun/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ofctarun/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ofctarun/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -852,4 +854,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ofctarun/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ofctarun/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
