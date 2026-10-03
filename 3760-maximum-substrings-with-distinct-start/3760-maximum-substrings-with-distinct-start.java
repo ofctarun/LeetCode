@@ -1,10 +1,8 @@
 class Solution {
     public int maxDistinct(String s) {
-        int[] freq = new int[26];
         int ans = 0;
-        for(char ch : s.toCharArray()){
-            freq[ch- 'a']++;
-            if(freq[ch - 'a'] == 1)ans++;
+        for(int i = 0; i < 26; i++){
+            if(s.contains(String.valueOf((char)('a' + i))))ans++;
         }
         return ans;
     }
