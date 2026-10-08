@@ -2,7 +2,8 @@ class Solution {
     public String removeDuplicates(String s) {
         StringBuilder sb = new StringBuilder();
         for(char ch : s.toCharArray()){
-            if(!sb.isEmpty() && sb.charAt(sb.length() - 1) == ch)sb.deleteCharAt(sb.length() - 1);
+            int n = sb.length() - 1;
+            if(!sb.isEmpty() && sb.charAt(n) == ch)sb.deleteCharAt(n);
             else sb.append(ch);
         }
         return new String(sb);
