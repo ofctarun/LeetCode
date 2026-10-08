@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/ofctarun/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ofctarun/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3941-password-strength](https://github.com/ofctarun/LeetCode/tree/master/3941-password-strength) |
+| [4030-check-ascii-palindromic](https://github.com/ofctarun/LeetCode/tree/main/4030-check-ascii-palindromic/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2563-count-the-number-of-fair-pairs](https://github.com/ofctarun/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ofctarun/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ofctarun/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [4030-check-ascii-palindromic](https://github.com/ofctarun/LeetCode/tree/main/4030-check-ascii-palindromic/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/ofctarun/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ofctarun/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ofctarun/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [4030-check-ascii-palindromic](https://github.com/ofctarun/LeetCode/tree/main/4030-check-ascii-palindromic/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
