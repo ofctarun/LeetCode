@@ -7,11 +7,11 @@ class Solution {
                 while(i >= 0 && asteroids[i] > 0 && asteroids[i] < -x){
                     i--;
                 }
-                if(i >= 0 && asteroids[i] == -x){
-                    i--;
-                }
-                else if(i < 0 || asteroids[i] < 0){
+                if(i < 0 || asteroids[i] < 0){
                     asteroids[++i] = x;
+                }
+                else if(asteroids[i] == -x){
+                    i--;
                 }
             }
         }
